@@ -1,1 +1,1 @@
-# Succinct and Universal DNN
+# DNN
